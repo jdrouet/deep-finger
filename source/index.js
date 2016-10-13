@@ -1,6 +1,6 @@
 export default class DeepFinger {
 
-  keyListener = () => {
-  }
+  events = [];
+  keyListener = event => this.events.push(event);
 
 };
