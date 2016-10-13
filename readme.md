@@ -8,8 +8,8 @@ import DeepFinger from 'deep-finger';
 // Create a DeepFinger instance
 const instance = new DeepFinger();
 // Give the instance the informations about keyboard inputs
-document.addEventListener('keyup', instance.keyUpListener.bind(instance), true);
-document.addEventListener('keydown', instance.keyDownListener.bind(instance), true);
+document.addEventListener('keyup', instance.keyListener, true);
+document.addEventListener('keydown', instance.keyListener, true);
 // Start learning
 instance.learn();
 // Type some informations...
