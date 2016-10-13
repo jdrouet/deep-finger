@@ -1,0 +1,612 @@
+[
+  {
+    "keyCode": 68,
+    "timeStamp": 3525.0450000000005,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 68,
+    "timeStamp": 3628.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 79,
+    "timeStamp": 3699.0450000000005,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 78,
+    "timeStamp": 3791.0450000000005,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 79,
+    "timeStamp": 3863.0450000000005,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 78,
+    "timeStamp": 3914.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 52,
+    "timeStamp": 3964.0450000000005,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 84,
+    "timeStamp": 4137.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 52,
+    "timeStamp": 4141.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 84,
+    "timeStamp": 4241.045000000001,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 32,
+    "timeStamp": 4383.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 32,
+    "timeStamp": 4445.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 83,
+    "timeStamp": 4516.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 83,
+    "timeStamp": 4557.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 69,
+    "timeStamp": 4669.045000000001,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 69,
+    "timeStamp": 4752.045000000001,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 84,
+    "timeStamp": 5047.045000000001,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 84,
+    "timeStamp": 5099.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 84,
+    "timeStamp": 5190.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 84,
+    "timeStamp": 5253.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 76,
+    "timeStamp": 5354.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 76,
+    "timeStamp": 5447.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 69,
+    "timeStamp": 5508.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 69,
+    "timeStamp": 5590.045000000001,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 32,
+    "timeStamp": 5681.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 32,
+    "timeStamp": 5754.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 70,
+    "timeStamp": 5876.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 70,
+    "timeStamp": 5969.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 79,
+    "timeStamp": 6009.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 79,
+    "timeStamp": 6071.045000000001,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 82,
+    "timeStamp": 6121.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 82,
+    "timeStamp": 6203.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 32,
+    "timeStamp": 6734.045000000001,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 32,
+    "timeStamp": 6786.045000000001,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 65,
+    "timeStamp": 6898.045000000001,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 65,
+    "timeStamp": 6990.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 32,
+    "timeStamp": 7245.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 32,
+    "timeStamp": 7328.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 82,
+    "timeStamp": 7408.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 69,
+    "timeStamp": 7521.045000000001,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 82,
+    "timeStamp": 7603.045000000001,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 69,
+    "timeStamp": 7664.045000000001,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 76,
+    "timeStamp": 7787.045000000001,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 65,
+    "timeStamp": 7930.045000000001,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 76,
+    "timeStamp": 7933.045000000001,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 65,
+    "timeStamp": 8012.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 84,
+    "timeStamp": 8123.045000000001,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 84,
+    "timeStamp": 8226.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 79,
+    "timeStamp": 8502.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 78,
+    "timeStamp": 8657.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 79,
+    "timeStamp": 8678.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 78,
+    "timeStamp": 8781.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 83,
+    "timeStamp": 8831.045000000002,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 83,
+    "timeStamp": 8944.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 72,
+    "timeStamp": 8973.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 72,
+    "timeStamp": 9076.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 73,
+    "timeStamp": 9167.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 73,
+    "timeStamp": 9239.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 80,
+    "timeStamp": 9423.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 80,
+    "timeStamp": 9516.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 32,
+    "timeStamp": 10414.045000000002,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 32,
+    "timeStamp": 10517.045000000002,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 84,
+    "timeStamp": 10557.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 84,
+    "timeStamp": 10619.045000000002,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 72,
+    "timeStamp": 10679.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 72,
+    "timeStamp": 10792.045000000002,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 65,
+    "timeStamp": 10823.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 65,
+    "timeStamp": 10885.045000000002,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 84,
+    "timeStamp": 10966.045000000002,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 84,
+    "timeStamp": 11048.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 32,
+    "timeStamp": 11088.045000000002,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 32,
+    "timeStamp": 11160.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 87,
+    "timeStamp": 11200.045000000002,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 87,
+    "timeStamp": 11303.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 79,
+    "timeStamp": 11306.045000000002,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 78,
+    "timeStamp": 11405.045000000002,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 79,
+    "timeStamp": 11426.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 78,
+    "timeStamp": 11539.045000000002,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 52,
+    "timeStamp": 11568.045000000002,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 84,
+    "timeStamp": 11692.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 52,
+    "timeStamp": 11723.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 84,
+    "timeStamp": 11826.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 32,
+    "timeStamp": 11897.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 32,
+    "timeStamp": 11999.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 76,
+    "timeStamp": 12101.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 76,
+    "timeStamp": 12193.045000000002,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 69,
+    "timeStamp": 12243.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 69,
+    "timeStamp": 12337.045000000002,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 84,
+    "timeStamp": 12448.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 32,
+    "timeStamp": 12550.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 84,
+    "timeStamp": 12554.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 32,
+    "timeStamp": 12622.045000000002,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 89,
+    "timeStamp": 12754.045000000002,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 89,
+    "timeStamp": 12837.045000000002,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 79,
+    "timeStamp": 12949.045000000002,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 85,
+    "timeStamp": 13030.045000000002,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 79,
+    "timeStamp": 13072.045000000002,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 32,
+    "timeStamp": 13112.045000000002,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 85,
+    "timeStamp": 13164.045000000002,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 32,
+    "timeStamp": 13205.045000000002,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 66,
+    "timeStamp": 13306.045000000002,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 66,
+    "timeStamp": 13399.045000000002,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 69,
+    "timeStamp": 13429.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 69,
+    "timeStamp": 13522.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 32,
+    "timeStamp": 13541.045,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 32,
+    "timeStamp": 13614.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 89,
+    "timeStamp": 13725.045000000002,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 89,
+    "timeStamp": 13807.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 79,
+    "timeStamp": 13920.045000000002,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 85,
+    "timeStamp": 14011.045000000002,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 79,
+    "timeStamp": 14064.045000000002,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 85,
+    "timeStamp": 14186.045000000002,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 82,
+    "timeStamp": 14317.045000000002,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 82,
+    "timeStamp": 14411.045000000002,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 83,
+    "timeStamp": 14594.045000000002,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 69,
+    "timeStamp": 14697.045000000002,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 83,
+    "timeStamp": 14759.045,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 69,
+    "timeStamp": 14830.045000000002,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 76,
+    "timeStamp": 14891.045000000002,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 76,
+    "timeStamp": 14974.045000000002,
+    "type": "keyup"
+  },
+  {
+    "keyCode": 70,
+    "timeStamp": 15065.045000000002,
+    "type": "keydown"
+  },
+  {
+    "keyCode": 70,
+    "timeStamp": 15147.045000000002,
+    "type": "keyup"
+  }
+]
