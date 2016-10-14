@@ -14,11 +14,22 @@ export default class DeepFinger {
   }
 
   events = [];
+
   keyListener = event => {
-    this.events = _.sortBy([
-      ...this.events,
-      event
-    ], ['timeStamp']);
+    this.appendEvent(event);
+  }
+
+  evaluateSentence(sentence) {
+  }
+
+  appendEvent(event) {
+    if (this.events.length && event.timeStamp - this.events[this.events.length - 1].timeStamp > this.props.timeout) {
+      let sentence = this.events;
+      this.events = [event];
+      this.evaluateSentence(sentence);
+    } else {
+      this.events = _.sortBy([...this.events, event], ['timeStamp']);
+    }
   }
 
 };
