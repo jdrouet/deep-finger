@@ -4,7 +4,7 @@ import DeepFinger from '../source';
 describe('DeepFinger listeners', function() {
 
   beforeEach(() => {
-    this.instance = new DeepFinger();
+    this.instance = new DeepFinger({minimalSentenceSize: 2});
   });
 
   it('should exist', () => {
