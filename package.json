@@ -4,7 +4,7 @@
   "description": "Continuous typing analyser using deep learning",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --compilers js:babel-core/register 'test/{**/,}*.js'"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/jdrouet/deep-finger/issues"
   },
-  "homepage": "https://github.com/jdrouet/deep-finger"
+  "homepage": "https://github.com/jdrouet/deep-finger",
+  "devDependencies": {
+    "babel-core": "^6.17.0",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  },
+  "dependencies": {
+    "lodash": "^4.16.4"
+  }
 }
